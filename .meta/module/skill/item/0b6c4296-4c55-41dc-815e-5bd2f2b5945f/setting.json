@@ -1,0 +1,28 @@
+{
+  "data": {
+    "castAction": "attack",
+    "cdAnimation": "BottomToTop",
+    "cdTime": {
+      "value": 20
+    },
+    "enableCdMask": true,
+    "FillPosition": "Top_Vertical",
+    "FillType": "Vertical",
+    "name": {
+      "value": "skill_0b6c4296-4c55-41dc-815e-5bd2f2b5945f"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_MeleeAttack",
+        "hurtDistance": 0
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "1e5d8a13ef47d5bc422e15381416de62",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

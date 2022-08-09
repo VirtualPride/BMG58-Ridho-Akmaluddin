@@ -1,0 +1,54 @@
+{
+  "data": {
+    "AI_attack": {
+      "attackMode": "autoAttack",
+      "chaseDistance": 3,
+      "enable": true,
+      "skillList": [
+        {
+          "fullName": "myplugin/0b6c4296-4c55-41dc-815e-5bd2f2b5945f"
+        }
+      ],
+      "targetType": "any"
+    },
+    "AI_home": {
+      "homeSize": 3
+    },
+    "AI_patrol": {
+      "patrolDistance": 10,
+      "patrolMode": "randomPath"
+    },
+    "canJump": false,
+    "canRevive": true,
+    "damage": 10,
+    "destroyTime": {
+      "value": 20
+    },
+    "dropDamageRatio": 1,
+    "enableAI": true,
+    "girlactor": {
+      "asset": ""
+    },
+    "hideHp": false,
+    "hurtResistantTime": {
+      "value": 20
+    },
+    "maxHp": 100,
+    "name": {
+      "value": "entity_321dbb96-975e-4b51-84ea-eb3df311bd3e"
+    },
+    "reviveTime": {
+      "value": 200
+    },
+    "skill": [
+      "myplugin/0b6c4296-4c55-41dc-815e-5bd2f2b5945f"
+    ]
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "1753186d6076883ec27c8856d5187076",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

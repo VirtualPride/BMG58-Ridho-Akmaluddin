@@ -1,0 +1,35 @@
+{
+  "data": {
+    "boundingVolume": {
+      "size": {
+        "x": 6,
+        "y": 1,
+        "z": 5
+      }
+    },
+    "boundingVolumeEntityCfg": {
+      "size": {
+        "x": 6,
+        "y": 1,
+        "z": 5
+      }
+    },
+    "collision": true,
+    "enableAI": true,
+    "girlactor": {
+      "asset": ""
+    },
+    "hideName": true,
+    "maxHp": 999,
+    "name": {
+      "value": "entity_6eb69e57-7318-44a1-95b0-ee6b42dc3084"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "3043dc4fe2354d4a97f7ced73b655cff",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

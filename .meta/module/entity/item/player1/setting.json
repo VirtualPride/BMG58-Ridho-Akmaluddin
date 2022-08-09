@@ -1,0 +1,64 @@
+{
+  "data": {
+    "actorModel": {
+      "actorName": {
+        "asset": ""
+      },
+      "girlactor": {
+        "asset": ""
+      }
+    },
+    "AI_attack": {
+      "enable": true
+    },
+    "AI_home": {
+      "homeSize": 5
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "boundingVolume": {
+      "height": 1.7,
+      "radius": 0.43,
+      "type": "Capsule"
+    },
+    "canRevive": true,
+    "damage": 20,
+    "deadAction": {
+      "deathHideTime": {
+        "value": 60
+      },
+      "playDeadAction": "die_front"
+    },
+    "equip": [
+      "1",
+      "2"
+    ],
+    "headPic": {
+      "asset": "asset/Actor/charactor/charactor_boy/tga/01_body_armor_widget.tga"
+    },
+    "hideHp": false,
+    "hurtResistantTime": {
+      "value": 60
+    },
+    "isPlayer": true,
+    "jumpHeight": 7,
+    "maxHp": 100,
+    "name": {
+      "value": "bbfbdc34-da2f-41ab-aaac-3b2e72f5ef6d"
+    },
+    "reviveTime": {
+      "value": 40
+    },
+    "skill": [
+      "myplugin/0b6c4296-4c55-41dc-815e-5bd2f2b5945f"
+    ]
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "d495b5b7051240cc04b9e383686a2efd",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}
